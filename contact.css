@@ -60,10 +60,6 @@ p {
   transition: transform 0.3s ease;
 }
 
-.contact-form:hover {
-  transform: scale(1.05);
-}
-
 .contact-form label {
   font-size: 1rem;
   color: #333;
