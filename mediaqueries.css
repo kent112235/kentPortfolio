@@ -74,7 +74,9 @@
     flex-direction: column;
   }
 
-  .contact-form,
+ .contact-form{
+    margin-left: -5.5%;
+  }
   .contact-info {
     width: 100%;
     margin-bottom: 1rem;
